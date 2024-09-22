@@ -1,3 +1,3 @@
 # Git demo
 
-first commit.
+second commit.
